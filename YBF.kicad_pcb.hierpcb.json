@@ -1,0 +1,303 @@
+{
+  "subpcb": {
+    "ws2812_and_cap.kicad_pcb": {
+      "anchor": "D1"
+    },
+    "YBF.kicad_pcb": {
+      "anchor": "D1"
+    }
+  },
+  "sheet": {
+    "": {
+      "checked": false
+    },
+    "/0193f13b-8a07-43e5-a096-015ebbe73f54": {
+      "checked": true
+    },
+    "/056496a1-4ccd-4057-9139-7c10199925aa": {
+      "checked": true
+    },
+    "/0871c3b6-c3fc-4f1a-a8cf-ddba15cc4d13": {
+      "checked": true
+    },
+    "/08c7cd34-03ae-4fec-a2eb-e8f89407b84d": {
+      "checked": true
+    },
+    "/0b11d4d4-72db-422f-aaae-efeeb9d90110": {
+      "checked": true
+    },
+    "/0d95abc8-35e4-4af5-8f78-c5f693eaa54f": {
+      "checked": true
+    },
+    "/0e4440c8-8b32-44c6-9a52-127d41313fe7": {
+      "checked": true
+    },
+    "/1341cb4b-dd92-45f5-b652-5f8b662422a4": {
+      "checked": true
+    },
+    "/136280d5-8627-4e61-9067-3c476e213382": {
+      "checked": true
+    },
+    "/15dfa47d-d409-4cec-a362-5c156a061461": {
+      "checked": true
+    },
+    "/169d9fb8-09d4-4b99-80cd-bd5084bb97f7": {
+      "checked": true
+    },
+    "/19bef4e9-5f69-4369-b0a5-0947f22e394c": {
+      "checked": true
+    },
+    "/1a5461ea-745c-4e58-8b30-f00350b784fe": {
+      "checked": true
+    },
+    "/1f6379da-4719-4427-9993-ac17068f0bdb": {
+      "checked": true
+    },
+    "/2a56029b-faa7-4d27-8469-ff74086dc611": {
+      "checked": true
+    },
+    "/2e404d46-9cd1-4f24-bbdb-9891b7fe34b0": {
+      "checked": true
+    },
+    "/2ead4010-c123-4df7-9086-67ac7768d39c": {
+      "checked": true
+    },
+    "/36f238e8-021d-474f-93db-885209d43ed5": {
+      "checked": true
+    },
+    "/36f52103-f7d9-49f9-a895-b9a2df10ffed": {
+      "checked": true
+    },
+    "/3a8838f3-0096-45cc-a592-a69edead2845": {
+      "checked": true
+    },
+    "/3b3db1f0-fff8-4efb-883f-bc6586c0b6fc": {
+      "checked": true
+    },
+    "/3c562e3b-7eeb-4432-9e29-db05ca2a5ec9": {
+      "checked": true
+    },
+    "/407f103f-fb3e-4e9e-ae6b-dc69c8b59c8d": {
+      "checked": true
+    },
+    "/423cfd7b-a068-4352-8f60-333059910e45": {
+      "checked": true
+    },
+    "/470b8e57-36ca-454b-8d69-8aba6cca9d03": {
+      "checked": true
+    },
+    "/47a23467-526e-41fa-9094-1c99aac146ab": {
+      "checked": true
+    },
+    "/482b9941-7a51-4669-b9e5-3a270c54e189": {
+      "checked": true
+    },
+    "/499b3b98-693c-4c38-a5ec-926700ec7b1b": {
+      "checked": true
+    },
+    "/4c0095b3-d3ae-46b5-8493-08f47148d049": {
+      "checked": true
+    },
+    "/4f9cb0a3-6724-482e-be06-a74a23895aee": {
+      "checked": true
+    },
+    "/55368255-393d-428a-b400-fd98d057101e": {
+      "checked": true
+    },
+    "/5a28596d-7f79-48b0-89c8-72381e4b7ea5": {
+      "checked": true
+    },
+    "/5ecc2df9-645a-4a20-9adc-5b8d5532ed26": {
+      "checked": true
+    },
+    "/5f76a217-b65e-4026-ae08-2cd1688cb0b2": {
+      "checked": true
+    },
+    "/625e862a-093d-4acc-aee4-2427c19c72cf": {
+      "checked": true
+    },
+    "/62fc622e-03bc-40ca-a5e0-2ac0cf5c5dec": {
+      "checked": true
+    },
+    "/657b9c65-2820-43e2-be2b-cfbfe1e7736c": {
+      "checked": true
+    },
+    "/66099f0b-4ec2-448a-aced-fec735183436": {
+      "checked": true
+    },
+    "/70440456-3003-4b0b-9ccd-39ae3c52f47e": {
+      "checked": true
+    },
+    "/74eef62e-6ee5-422e-ba27-e0010465a11b": {
+      "checked": true
+    },
+    "/770da981-c769-4276-b389-b1ce6eeb60ef": {
+      "checked": true
+    },
+    "/77a1a7cc-fcda-46fb-9e74-d0b28984b598": {
+      "checked": true
+    },
+    "/78ba3b62-ea73-4c1a-ad9a-bd52fbca5819": {
+      "checked": true
+    },
+    "/800588c6-df8b-49a5-aea3-c322096e72d5": {
+      "checked": true
+    },
+    "/8568389d-1f1e-4a4c-911d-ccfe4571f700": {
+      "checked": true
+    },
+    "/8633f633-c767-4f42-a5d8-8ea5e8b156c4": {
+      "checked": true
+    },
+    "/865ffa86-d7a6-498a-8279-ba1502e653ce": {
+      "checked": true
+    },
+    "/8a758dc1-90f0-4b44-b5ee-9e5b0346d10b": {
+      "checked": true
+    },
+    "/8c57d028-06d9-427d-83a1-3b946f51946c": {
+      "checked": true
+    },
+    "/8f97384e-ba91-4a72-af08-6ac8d187199e": {
+      "checked": true
+    },
+    "/93361ba6-0efd-4727-a686-58e7ce2880ff": {
+      "checked": true
+    },
+    "/9390a967-2dd3-414d-8e4e-9d6ee33f0b51": {
+      "checked": true
+    },
+    "/993dc2d8-f907-4ad1-b896-c1e338dfade4": {
+      "checked": true
+    },
+    "/9948ae37-148c-430a-a3fe-9801f8ebf4d1": {
+      "checked": true
+    },
+    "/9a9169b4-b583-4a4c-87ec-49e5a8dbde6c": {
+      "checked": true
+    },
+    "/9ef9fd19-303c-4e24-8f2a-f9a42465775a": {
+      "checked": true
+    },
+    "/a1571a1e-2fa0-45d8-bc7e-73cb551e489b": {
+      "checked": true
+    },
+    "/a7aed3d8-1fb1-4eab-a562-aa6340d9ee68": {
+      "checked": true
+    },
+    "/ac8ab3d3-08ab-4ec9-b174-50a3bf32a82d": {
+      "checked": true
+    },
+    "/b057c4a9-c55b-4d23-b5c1-28c35d5a4516": {
+      "checked": true
+    },
+    "/b0bcba4f-8b61-4869-a7d1-ca658354d99f": {
+      "checked": true
+    },
+    "/b4fb5bd3-c48e-4697-a5c6-0b540d47e4ad": {
+      "checked": true
+    },
+    "/b9f4925e-7093-480f-8f6c-3f67e621ecba": {
+      "checked": true
+    },
+    "/be6d20c2-bd48-42ce-948d-0350d2a0306f": {
+      "checked": true
+    },
+    "/c0b18641-45a3-4377-ae63-eef22fb85874": {
+      "checked": true
+    },
+    "/c10e5c9f-05b1-4785-b113-47f430437f9f": {
+      "checked": true
+    },
+    "/c334abe1-98de-4948-b6c8-6df8cb5d5a32": {
+      "checked": true
+    },
+    "/c753195b-1dab-4828-aa36-58fa511190c0": {
+      "checked": true
+    },
+    "/c7566d32-065b-4a6a-92d3-58bbf0ea3e5c": {
+      "checked": true
+    },
+    "/c9750736-8286-4e65-8505-39485b0fafff": {
+      "checked": true
+    },
+    "/c9f14f64-09c1-4e9b-8b04-50e4dfb4f584": {
+      "checked": true
+    },
+    "/ca22c7dd-c12b-4f37-915a-466073358dda": {
+      "checked": true
+    },
+    "/ca96b70a-dad7-4a7d-a682-ee6023cbd238": {
+      "checked": true
+    },
+    "/ccef76cf-cd58-47e6-b00a-12bf9595f1db": {
+      "checked": true
+    },
+    "/cdd67430-5079-424c-bf11-af565a189a62": {
+      "checked": true
+    },
+    "/cf9f85de-4836-4ceb-bc94-e4b22edc86d1": {
+      "checked": true
+    },
+    "/d14a22e4-9188-4788-8f71-264dff1052c3": {
+      "checked": true
+    },
+    "/d1d47328-689c-459a-bdbd-2773d7d16ff3": {
+      "checked": true
+    },
+    "/da35f444-74de-4747-8d5c-6dad552a9b06": {
+      "checked": true
+    },
+    "/de384a7e-ffd3-49a4-8e4d-068df54a9f93": {
+      "checked": true
+    },
+    "/dfae978e-b9bb-48cd-a560-ec31dd977cdc": {
+      "checked": true
+    },
+    "/e07084e7-c5ee-411c-891d-d3354f9f28fd": {
+      "checked": true
+    },
+    "/e1ae5499-902c-4d09-9779-b9ed7184efb2": {
+      "checked": true
+    },
+    "/e572bea0-5863-46aa-9bbb-330df38c44bf": {
+      "checked": true
+    },
+    "/e610ca6a-155f-40ec-bb5c-d19cffaebb20": {
+      "checked": true
+    },
+    "/e91be2af-22ac-4763-9f3e-bf762600601d": {
+      "checked": true
+    },
+    "/e9577690-141d-4f6e-a0fa-aae83e357ace": {
+      "checked": true
+    },
+    "/ea40d793-bab3-47cd-9886-e5dd0b4f270a": {
+      "checked": true
+    },
+    "/ece210a9-e971-4d1a-8ebe-12da45ef17f6": {
+      "checked": true
+    },
+    "/f3644fe4-3c13-4e61-927a-a21596856dfe": {
+      "checked": true
+    },
+    "/f76c115b-5f47-4519-83d3-78697d1cb488": {
+      "checked": true
+    },
+    "/f9aeefc1-18b4-41ed-bd79-a9f398cb1290": {
+      "checked": true
+    },
+    "/fac2f9cf-b9d3-4660-935c-7cf822caa8a6": {
+      "checked": true
+    },
+    "/fc05f45e-7c22-4ffe-9445-6f2747ad44c7": {
+      "checked": true
+    },
+    "/fc96d6ea-f2e1-4e03-8ed6-96f9e3df2850": {
+      "checked": true
+    },
+    "/fe823ce4-50fd-4ab8-ba8f-ae3392655d5e": {
+      "checked": true
+    }
+  }
+}
