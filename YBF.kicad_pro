@@ -619,6 +619,10 @@
     [
       "1a819b7c-8662-483f-8008-ac827d159f40",
       "Perimeter LEDs"
+    ],
+    [
+      "7bbba701-8195-4214-afb2-d3648106542e",
+      "ws2812_and_cap"
     ]
   ],
   "text_variables": {}
