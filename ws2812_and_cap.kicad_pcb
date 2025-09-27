@@ -90,7 +90,7 @@
 		(tags "LED RGB NeoPixel Nano PLCC-4 2020")
 		(property "Reference" "D1"
 			(at 2.794 0 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "b599b430-537c-47cc-8dbe-a9039a088b39")
 			(effects
 				(font
@@ -372,7 +372,7 @@
 		(tags "capacitor")
 		(property "Reference" "C1"
 			(at -2.781 0 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "cceb2b32-cef0-4f18-b750-46a0117964aa")
 			(effects
 				(font
@@ -383,7 +383,7 @@
 		)
 		(property "Value" "1uF"
 			(at 3.061 0 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "f5e7a05e-9988-44ee-8ae5-c9c08028819c")
 			(effects
 				(font
@@ -637,11 +637,11 @@
 	)
 	(segment
 		(start 151.4135 98.552)
-		(end 149.098 98.552)
+		(end 149.352 98.552)
 		(width 0.1524)
 		(layer "F.Cu")
 		(net 3)
-		(uuid "35c2c8fd-e023-4c4e-8c09-45c14b594d31")
+		(uuid "1ee92465-1759-43cd-90d2-8d9076e7a647")
 	)
 	(segment
 		(start 151.85 98.9885)

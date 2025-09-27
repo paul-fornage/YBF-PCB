@@ -1,6 +1,6 @@
 Plugin v0.0.1 running on KiCad 9.0.4 and Python 3.13.7 (main, Aug 15 2025, 12:34:02) [GCC 15.2.1 20250813] on linux.
 Imported /home/pfornage/KiCad/YBF-PCB/ws2812_and_cap.kicad_pcb, with 2 footprints, 14 tracks, and 0 drawings.
-Imported /home/pfornage/KiCad/YBF-PCB/YBF.kicad_pcb, with 209 footprints, 0 tracks, and 767 drawings.
+Imported /home/pfornage/KiCad/YBF-PCB/YBF.kicad_pcb, with 209 footprints, 1344 tracks, and 768 drawings.
 / (+ PCB /home/pfornage/KiCad/YBF-PCB/YBF.kicad_pcb)
 ├─ /ws2812_and_cap78/ (+ PCB /home/pfornage/KiCad/YBF-PCB/ws2812_and_cap.kicad_pcb)
 ├─ /ws2812_and_cap70/ (+ PCB /home/pfornage/KiCad/YBF-PCB/ws2812_and_cap.kicad_pcb)
@@ -311,4 +311,3 @@ PCB /home/pfornage/KiCad/YBF-PCB/YBF.kicad_pcb
   /02b87177: U2
   /f3a6ad24: C1
   /68eb4d90: C2
-Saved.
