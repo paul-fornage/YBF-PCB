@@ -2967,6 +2967,10 @@
 		(uuid "f279a604-fe0a-4d6a-bc66-9a30d7797646")
 	)
 	(no_connect
+		(at 15.24 111.76)
+		(uuid "d229ec61-c9d5-45b1-8425-1c00c49b2d0d")
+	)
+	(no_connect
 		(at 49.53 166.37)
 		(uuid "e87c6d94-d190-4a2f-a3c5-2a11762b6e70")
 	)
@@ -3129,6 +3133,16 @@
 			(type default)
 		)
 		(uuid "123a866b-7824-45cf-9fa8-22ee1927d9bf")
+	)
+	(wire
+		(pts
+			(xy 15.24 90.17) (xy 15.24 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "127efcb3-ace9-4735-8ceb-a0739c8c0adf")
 	)
 	(wire
 		(pts
@@ -6352,16 +6366,6 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 90.17) (xy 15.24 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f33b5c54-36e9-44cf-a8a3-ad73d1cac1f3")
-	)
-	(wire
-		(pts
 			(xy 156.21 170.18) (xy 156.21 156.21)
 		)
 		(stroke
@@ -6510,6 +6514,16 @@
 		)
 		(uuid "fe154981-0a8e-4246-ad6b-442ac09a5e69")
 	)
+	(label "PERIM_LED_DATA_OUT"
+		(at 15.24 110.49 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "695204d2-06f4-40c0-817d-210fb762fd5f")
+	)
 	(label "DATA_CHAIN_RETURN"
 		(at 34.29 166.37 0)
 		(effects
@@ -6558,50 +6572,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PERIM_LED_DATA_OUT"
-		(shape output)
-		(at 15.24 97.79 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7df80774-68a1-4bce-b865-dc10301c5ab1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 15.24 120.9137 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PERIM_LED_DATA_OUT"
-		(shape input)
-		(at 54.61 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "81c94bdc-565f-4179-9ad2-2bdc3179c3af")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.7337 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
