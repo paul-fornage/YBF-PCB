@@ -6542,28 +6542,6 @@
 	)
 	(global_label "PERIM_LED_DATA_IN"
 		(shape output)
-		(at 54.61 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "17bf2e37-3f54-4ad1-b825-cf7dbefc9559")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 76.0404 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PERIM_LED_DATA_OUT"
-		(shape input)
 		(at 148.59 172.72 270)
 		(fields_autoplaced yes)
 		(effects
@@ -6572,9 +6550,9 @@
 			)
 			(justify right)
 		)
-		(uuid "1e2ed5cc-2e6b-43a2-b1e1-60f95c804e41")
+		(uuid "5bc753a0-bcf8-43a4-8f64-3a59066215a4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.59 195.8437 90)
+			(at 148.59 194.1504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6602,6 +6580,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PERIM_LED_DATA_OUT"
+		(shape input)
+		(at 54.61 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "81c94bdc-565f-4179-9ad2-2bdc3179c3af")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.7337 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
