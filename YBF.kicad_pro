@@ -491,10 +491,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "pcbway/",
+      "plot": "outline-gbr/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "YBF.step",
       "svg": "",
       "vrml": ""
     },
